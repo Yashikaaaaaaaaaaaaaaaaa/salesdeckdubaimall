@@ -8,11 +8,11 @@ Built as a **presentation tool (not a traditional website)**, this experience en
 
 ## 🔗 Live Experience
 
-👉 https://thedubaimall.vercel.app/
+👉 https://salesdeckdubaimall.vercel.app/
 
 ## 💻 GitHub Repository
 
-👉 https://github.com/Yashikaaaaaaaaaaaaaaaaa/thedubaimall
+👉 https://github.com/Yashikaaaaaaaaaaaaaaaaa/salesdeckdubaimall
 
 ---
 
